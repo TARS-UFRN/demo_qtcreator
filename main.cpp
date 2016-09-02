@@ -1,3 +1,7 @@
+// programa so roda com permissão de sudo. Caso contrario da erro na porta
+// como rodar compermissão de sudo :
+//http://askubuntu.com/questions/237617/debug-qt-application-on-ubuntu-with-root-permission-using-qt-creator
+
 #include <QCoreApplication>
 #include <stdio.h>
 #include <stdlib.h>
